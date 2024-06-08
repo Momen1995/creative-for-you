@@ -17,3 +17,13 @@ body{
 .hero-section{
   margin-top: 6.5rem;
 }
+
+
+::-webkit-scrollbar{
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #F44335;
+}
